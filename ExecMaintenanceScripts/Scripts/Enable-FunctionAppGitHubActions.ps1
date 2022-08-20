@@ -1,6 +1,6 @@
-$ResourceGroup = '##RESOURCEGROUP##'
-$Subscription = '##SUBSCRIPTION##'
-$FunctionName = '##FUNCTIONAPP##'
+$ResourceGroup = 'jem-cyberdrain'
+$Subscription = '4fc9f7d8-313e-427b-8356-e16baa97212f'
+$FunctionName = 'cippxrjji'
 
 $Logo = @'
    _____ _____ _____  _____  
